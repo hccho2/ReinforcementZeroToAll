@@ -1,9 +1,3 @@
-import gym
-from gym.envs.registration import register
-
-# http://stackoverflow.com/questions/510357/python-read-a-single-character-from-the-user
-import readchar  # pip3 install readchar
-
 #  coding: utf-8
 import gym
 from gym.envs.registration import register
